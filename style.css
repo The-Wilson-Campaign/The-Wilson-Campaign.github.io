@@ -19,6 +19,14 @@ body {
   border: 3px solid black;
 }
 
+
+.block-center {
+  background: light-blue;
+  padding: 10px;
+  border: 3px solid black;
+  font-align: center;
+}
+
 .title {
   font-size: 3.5em;
   color: white;
