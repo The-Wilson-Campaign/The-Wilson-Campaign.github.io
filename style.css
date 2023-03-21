@@ -30,11 +30,11 @@ body {
 }
 
 #title {
-  border: 3px solid white;
+  border: 7px solid white;
   border-radius: 75%;
   padding: 20px; 
-  width: 400px;
-  height: 150px;
+  width: 800px;
+  height: 100px;
 }
 
 .title {
