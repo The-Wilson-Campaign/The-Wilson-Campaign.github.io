@@ -33,6 +33,12 @@ body {
   text-align: center;
 }
 
+.subtitle {
+  font-size: 2.5em;
+  color: white;
+  text-align: center;
+}
+
 a {
   color: white;
   text-decoration: none;
