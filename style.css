@@ -29,6 +29,13 @@ body {
   border-radius: 10px;
 }
 
+#title {
+  border-radius: 75%;
+  padding: 20px; 
+  width: 400px;
+  height: 150px;
+}
+
 .title {
   font-size: 3.5em;
   color: white;
