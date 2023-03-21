@@ -9,6 +9,10 @@ body {
   font-family: 'Kanit', sans-serif;
 }
 
+.center {
+  text-align: center;
+}
+
 .block {
   background: light-blue;
   padding: 10px;
