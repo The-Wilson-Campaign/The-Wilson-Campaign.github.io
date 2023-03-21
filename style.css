@@ -13,3 +13,9 @@ body {
   color: white;
   text-align: center;
 }
+
+a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
