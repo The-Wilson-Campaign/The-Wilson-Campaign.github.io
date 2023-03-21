@@ -1,5 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap');
+
+a, p, h1, h2, h3 {
+  font-family: 'Kanit', sans-serif;
+}
+
 body {
   background: silver;
+  font-family: 'Kanit', sans-serif;
 }
 
 .block {
