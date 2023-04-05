@@ -30,14 +30,6 @@ body {
   border-radius: 10px;
 }
 
-#title {
-  border: 7px solid white;
-  border-radius: 75%;
-  padding: 20px; 
-  width: 800px;
-  height: 100px;
-}
-
 .title {
   font-size: 3.5em;
   color: white;
