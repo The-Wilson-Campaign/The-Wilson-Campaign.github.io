@@ -5,7 +5,7 @@ a, p, h1, h2, h3 {
 }
 
 body {
-  cursor: url(`Untitled drawing.png`), auto;
+  cursor: url(`Untitled drawing.png`), auto !important;
   background: silver;
   font-family: 'Kanit', sans-serif;
 }
