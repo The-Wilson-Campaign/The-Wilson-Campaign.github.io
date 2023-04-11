@@ -23,6 +23,8 @@ body::hover {
   padding: 10px;
   border: 3px solid black;
   border-radius: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 
@@ -32,6 +34,8 @@ body::hover {
   border: 3px solid black;
   text-align: center;
   border-radius: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 .title {
