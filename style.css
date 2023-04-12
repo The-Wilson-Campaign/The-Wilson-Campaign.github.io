@@ -8,6 +8,7 @@ body {
   cursor: url(`Untitled drawing.png`), auto;
   background: silver;
   font-family: 'Kanit', sans-serif;
+  font-size: 1.5rem;
 }
 
 body::hover {
